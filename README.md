@@ -4,6 +4,7 @@ A simple command-line based Library Management System built using Python.
 This project allows users to add, view, update, and delete books stored in an in-memory list.
 It is ideal for beginners learning Python, functions, and basic CRUD operations.
 
+
 🚀 Features
 
 ➕ Add Books
@@ -18,7 +19,6 @@ It is ideal for beginners learning Python, functions, and basic CRUD operations.
 
 📝 Tabular Display using tabulate
 
-🔒 Input validation for safe execution
 
 🛠 Technologies Used
 
@@ -29,6 +29,7 @@ tabulate module for formatted table output
 Install tabulate if required:
 
 pip install tabulate
+
 
 🧩 How It Works
 
